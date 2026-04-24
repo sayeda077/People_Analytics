@@ -193,3 +193,8 @@ Employees are more likely to leave due to:
 ```bash
 git clone https://github.com/your-username/People_Analytics.git
 cd People_Analytics
+pip install pandas numpy matplotlib seaborn scikit-learn
+python "1.3 Employee well-being dataset.py"
+python "1.4 Predictive well-being algorithm.py"
+python "2.3 Employee Turnover Dataset.py"
+python "2.4 Turnover prediction.py"

@@ -20,25 +20,21 @@ This project explores two key HR analytics domains:
 
 ---
 
+
 ## 📂 Project Structure
-```
+
+```bash
 People_Analytics/
-│
 ├── Employee well-being dataset/
 │   └── 1.3 Employee well-being dataset.py
-│
 ├── Predictive well-being algorithm/
 │   └── 1.4 Predictive well-being algorithm.py
-│
 ├── Employee Turnover Dataset/
 │   └── 2.3 Employee Turnover Dataset.py
-│
 ├── Turnover prediction/
 │   └── 2.4 Turnover prediction.py
-│
 ├── Project Report - Sayeda Fatema Tuj Zohura.pdf
 └── README.md
-
 
 ---
 

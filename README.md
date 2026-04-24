@@ -21,6 +21,7 @@ This project explores two key HR analytics domains:
 ---
 
 ## 📂 Project Structure
+```
 People_Analytics/
 │
 ├── Employee well-being dataset/
